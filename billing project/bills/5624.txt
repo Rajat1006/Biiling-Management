@@ -1,0 +1,12 @@
+	Welcome to our Resturant 
+
+Bill No.      :5624
+Customer Name :sfbgnhf
+Phone No.     :5232525
+==================================	Product		Qty	Price
+==================================
+Bath Soap		 1 	 40
+----------------------------------
+Cosmetic tax			Rs 2.0
+----------------------------------
+Total			Rs 42.0

@@ -1,0 +1,17 @@
+	Welcome to our Resturant 
+
+Bill No.      :2270
+Customer Name :qhgdvejh
+Phone No.     :2541654
+==================================	Product		Qty	Price
+==================================
+Bath Soap		 1 	 40
+Face wash		 2 	 120
+Food oil		 2 	 240
+Frooti		 1 	 60
+----------------------------------
+Cosmetic tax			Rs 8.0
+Grocery  tax			Rs 2.4
+Cold Drinks tax			Rs 3.0
+----------------------------------
+Total			Rs 473.4

@@ -1,0 +1,17 @@
+	Welcome to our Resturant 
+
+Bill No.      :2976
+Customer Name :dfgbg
+Phone No.     :5736
+==================================	Product		Qty	Price
+==================================
+Bath Soap		 5 	 200
+Face Cream		 5 	 600
+Food oil		 4 	 480
+Coke		 2 	 240
+----------------------------------
+Cosmetic tax			Rs 40.0
+Grocery  tax			Rs 4.8
+Cold Drinks tax			Rs 12.0
+----------------------------------
+Total			Rs 1576.8

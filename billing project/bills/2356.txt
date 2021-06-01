@@ -1,0 +1,21 @@
+	Welcome to our Resturant 
+
+Bill No.      :2356
+Customer Name :GCGHSDGCV
+Phone No.     :654645
+==================================	Product		Qty	Price
+==================================
+Bath Soap		 1 	 40
+Face Cream		 2 	 240
+Face wash		 3 	 180
+Food oil		 1 	 120
+Wheat		 7 	 350
+Maaza		 1 	 40
+Frooti		 2 	 120
+Limca		 2 	 100
+----------------------------------
+Cosmetic tax			Rs 23.0
+Grocery  tax			Rs 4.7
+Cold Drinks tax			Rs 13.0
+----------------------------------
+Total			Rs 1230.7

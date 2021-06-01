@@ -1,0 +1,22 @@
+	Welcome to our Resturant 
+
+Bill No.      :8687
+Customer Name :Ram chandra
+Phone No.     :879465123
+==================================	Product		Qty	Price
+==================================
+Bath Soap		 12 	 480
+Face wash		 6 	 360
+Hair Spray		 5 	 250
+Hair Gel		 2 	 100
+Rice		 2 	 80
+Daal		 3 	 180
+sugar		 1 	 50
+Maaza		 1 	 40
+Coke		 7 	 840
+----------------------------------
+Cosmetic tax			Rs 59.5
+Grocery  tax			Rs 3.6
+Cold Drinks tax			Rs 44.0
+----------------------------------
+Total			Rs 2537.1
